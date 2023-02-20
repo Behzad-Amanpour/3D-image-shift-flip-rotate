@@ -2,7 +2,7 @@
 
 In **code.py** you will see:
 
-  - How to flip a 3D image left-right and up-down
+  - How to flip a 3D image along different axes
   
   - How to shift (move) a 3D image in different directions
   
